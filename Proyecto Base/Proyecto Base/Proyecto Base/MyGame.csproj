@@ -47,12 +47,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Animator.cs" />
+    <Compile Include="Collider.cs" />
+    <Compile Include="Enemy.cs" />
     <Compile Include="Engine\Font.cs" />
     <Compile Include="Engine\Engine.cs" />
     <Compile Include="Engine\Image.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="PlayerController.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Engine\Sound.cs" />
+    <Compile Include="Transform.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
