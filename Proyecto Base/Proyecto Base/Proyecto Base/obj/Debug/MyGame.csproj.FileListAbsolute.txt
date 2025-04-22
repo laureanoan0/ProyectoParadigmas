@@ -73,3 +73,13 @@ E:\proyectos Visual\ProyectoParadigmas\ProyectoParadigmas\Proyecto Base\Proyecto
 E:\proyectos Visual\ProyectoParadigmas\ProyectoParadigmas\Proyecto Base\Proyecto Base\Proyecto Base\obj\Debug\MyGame.csproj.Up2Date
 E:\proyectos Visual\ProyectoParadigmas\ProyectoParadigmas\Proyecto Base\Proyecto Base\Proyecto Base\obj\Debug\MyGame.exe
 E:\proyectos Visual\ProyectoParadigmas\ProyectoParadigmas\Proyecto Base\Proyecto Base\Proyecto Base\obj\Debug\MyGame.pdb
+C:\GitHub Desktop\ProyectoParadigmas\Proyecto Base\Proyecto Base\Proyecto Base\bin\Debug\assets\fondo.png
+C:\GitHub Desktop\ProyectoParadigmas\Proyecto Base\Proyecto Base\Proyecto Base\bin\Debug\assets\player.png
+C:\GitHub Desktop\ProyectoParadigmas\Proyecto Base\Proyecto Base\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\GitHub Desktop\ProyectoParadigmas\Proyecto Base\Proyecto Base\Proyecto Base\bin\Debug\MyGame.exe
+C:\GitHub Desktop\ProyectoParadigmas\Proyecto Base\Proyecto Base\Proyecto Base\bin\Debug\MyGame.pdb
+C:\GitHub Desktop\ProyectoParadigmas\Proyecto Base\Proyecto Base\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\GitHub Desktop\ProyectoParadigmas\Proyecto Base\Proyecto Base\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\GitHub Desktop\ProyectoParadigmas\Proyecto Base\Proyecto Base\Proyecto Base\obj\Debug\MyGame.csproj.Up2Date
+C:\GitHub Desktop\ProyectoParadigmas\Proyecto Base\Proyecto Base\Proyecto Base\obj\Debug\MyGame.exe
+C:\GitHub Desktop\ProyectoParadigmas\Proyecto Base\Proyecto Base\Proyecto Base\obj\Debug\MyGame.pdb

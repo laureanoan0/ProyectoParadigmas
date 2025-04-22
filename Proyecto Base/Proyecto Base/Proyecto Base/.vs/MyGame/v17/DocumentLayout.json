@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\",
+  "WorkspaceRootPath": "C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Animator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:Animator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|e:\\proyectos visual\\proyectoparadigmas\\proyectoparadigmas\\proyecto base\\proyecto base\\proyecto base\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Collider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:Collider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|e:\\proyectos visual\\proyectoparadigmas\\proyectoparadigmas\\proyecto base\\proyecto base\\proyecto base\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\github desktop\\proyectoparadigmas\\proyecto base\\proyecto base\\proyecto base\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\animator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:animator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\collider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:collider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\engine\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:engine\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:Transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Engine\\Engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:Engine\\Engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,45 +46,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Player.cs",
-              "DocumentMoniker": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Player.cs",
+              "DocumentMoniker": "C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
-              "ToolTip": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Player.cs",
+              "ToolTip": "C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Player.cs",
               "RelativeToolTip": "Player.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T23:17:27.134Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "PlayerController.cs",
-              "DocumentMoniker": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\PlayerController.cs",
+              "DocumentMoniker": "C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\PlayerController.cs",
               "RelativeDocumentMoniker": "PlayerController.cs",
-              "ToolTip": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\PlayerController.cs",
+              "ToolTip": "C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\PlayerController.cs",
               "RelativeToolTip": "PlayerController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAsAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T23:18:37.346Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Program.cs",
+              "DocumentMoniker": "C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Program.cs",
+              "ToolTip": "C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwCwAAAAZAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACwAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T23:08:24.607Z",
               "IsPinned": true,
@@ -92,50 +90,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Vector2.cs",
-              "DocumentMoniker": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Vector2.cs",
+              "DocumentMoniker": "C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Vector2.cs",
               "RelativeDocumentMoniker": "Vector2.cs",
-              "ToolTip": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Vector2.cs",
+              "ToolTip": "C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Vector2.cs",
               "RelativeToolTip": "Vector2.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAmwBQAAAAJAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwBsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T02:47:48.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Transform.cs",
-              "DocumentMoniker": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Transform.cs",
+              "DocumentMoniker": "C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Transform.cs",
               "RelativeDocumentMoniker": "Transform.cs",
-              "ToolTip": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Transform.cs",
+              "ToolTip": "C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Transform.cs",
               "RelativeToolTip": "Transform.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T23:18:10.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T23:18:10.469Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Animator.cs",
-              "DocumentMoniker": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Animator.cs",
+              "DocumentMoniker": "C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Animator.cs",
               "RelativeDocumentMoniker": "Animator.cs",
-              "ToolTip": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Animator.cs",
+              "ToolTip": "C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Animator.cs",
               "RelativeToolTip": "Animator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T23:19:43.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Collider.cs",
-              "DocumentMoniker": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Collider.cs",
+              "DocumentMoniker": "C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Collider.cs",
               "RelativeDocumentMoniker": "Collider.cs",
-              "ToolTip": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Collider.cs",
+              "ToolTip": "C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Collider.cs",
               "RelativeToolTip": "Collider.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -146,27 +143,25 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Enemy.cs",
-              "DocumentMoniker": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Enemy.cs",
+              "DocumentMoniker": "C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Enemy.cs",
               "RelativeDocumentMoniker": "Enemy.cs",
-              "ToolTip": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Enemy.cs",
+              "ToolTip": "C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Enemy.cs",
               "RelativeToolTip": "Enemy.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T23:17:46.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T23:17:46.626Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Engine.cs",
-              "DocumentMoniker": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Engine\\Engine.cs",
+              "DocumentMoniker": "C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Engine\\Engine.cs",
               "RelativeDocumentMoniker": "Engine\\Engine.cs",
-              "ToolTip": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Engine\\Engine.cs",
+              "ToolTip": "C:\\GitHub Desktop\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Engine\\Engine.cs",
               "RelativeToolTip": "Engine\\Engine.cs",
               "ViewState": "AQIAAOkAAAAAAAAAAAAAAPUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T00:12:00.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T00:12:00.805Z"
             }
           ]
         }
