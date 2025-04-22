@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|e:\\proyectos visual\\proyectoparadigmas\\proyectoparadigmas\\proyecto base\\proyecto base\\proyecto base\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|e:\\proyectos visual\\proyectoparadigmas\\proyectoparadigmas\\proyecto base\\proyecto base\\proyecto base\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +19,24 @@
       "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\animator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:animator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|e:\\proyectos visual\\proyectoparadigmas\\proyectoparadigmas\\proyecto base\\proyecto base\\proyecto base\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|e:\\proyectos visual\\proyectoparadigmas\\proyectoparadigmas\\proyecto base\\proyecto base\\proyecto base\\engine\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:engine\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\collider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:collider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\animator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:animator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +46,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\PlayerController.cs",
+              "RelativeDocumentMoniker": "PlayerController.cs",
+              "ToolTip": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\PlayerController.cs",
+              "RelativeToolTip": "PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:18:37.346Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:17:27.134Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:08:24.607Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transform.cs",
+              "DocumentMoniker": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Transform.cs",
+              "RelativeDocumentMoniker": "Transform.cs",
+              "ToolTip": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Transform.cs",
+              "RelativeToolTip": "Transform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:18:10.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Engine\\Engine.cs",
+              "RelativeDocumentMoniker": "Engine\\Engine.cs",
+              "ToolTip": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Engine\\Engine.cs",
+              "RelativeToolTip": "Engine\\Engine.cs",
+              "ViewState": "AQIAAOkAAAAAAAAAAAAAAPUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:12:00.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vector2.cs",
+              "DocumentMoniker": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Vector2.cs",
+              "RelativeDocumentMoniker": "Vector2.cs",
+              "ToolTip": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Vector2.cs",
+              "RelativeToolTip": "Vector2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:01:33.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Animator.cs",
               "DocumentMoniker": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Animator.cs",
               "RelativeDocumentMoniker": "Animator.cs",
@@ -62,35 +151,12 @@
               "RelativeToolTip": "Collider.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T23:18:56.198Z"
+              "WhenOpened": "2025-04-21T23:18:56.198Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\PlayerController.cs",
-              "RelativeDocumentMoniker": "PlayerController.cs",
-              "ToolTip": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\PlayerController.cs",
-              "RelativeToolTip": "PlayerController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T23:18:37.346Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Transform.cs",
-              "DocumentMoniker": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Transform.cs",
-              "RelativeDocumentMoniker": "Transform.cs",
-              "ToolTip": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Transform.cs",
-              "RelativeToolTip": "Transform.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T23:18:10.469Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Enemy.cs",
               "DocumentMoniker": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Enemy.cs",
               "RelativeDocumentMoniker": "Enemy.cs",
@@ -99,31 +165,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T23:17:46.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Player.cs",
-              "DocumentMoniker": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Player.cs",
-              "RelativeDocumentMoniker": "Player.cs",
-              "ToolTip": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Player.cs",
-              "RelativeToolTip": "Player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T23:17:27.134Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\proyectos Visual\\ProyectoParadigmas\\ProyectoParadigmas\\Proyecto Base\\Proyecto Base\\Proyecto Base\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T23:08:24.607Z",
-              "EditorCaption": ""
             }
           ]
         }
