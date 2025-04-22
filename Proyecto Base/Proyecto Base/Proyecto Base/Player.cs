@@ -11,22 +11,34 @@ namespace MyGame
        
         private PlayerController playerController;
         private Transform playerTransform;
+        private Image playerSprite = Engine.LoadImage("assets/player.png");
 
-        private float posX, posY;
+        public Transform PlayerTransform => playerTransform;
+
+
+
+       
 
         public Player(float posX, float posY)
         {
-           this.posX = posX;
-           this.posY = posY;
-
-              
+      
+            
+           playerTransform = new Transform(posX, posY);
+           playerController = new PlayerController(playerTransform);
             
         }
 
-        private void update()
+        public void update()
         {
        
             playerController.update();
+
+        }
+
+        public void renderer()
+        {
+
+            Engine.Draw(playerSprite, PlayerTransform.PosX, PlayerTransform.PosY);
 
         }
 

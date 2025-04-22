@@ -9,7 +9,7 @@ namespace MyGame
     public class PlayerController
     {
         private Transform playerTransform;
-        private int speed = 10;
+        private int speed = 4;
 
         public PlayerController(Transform playerTransform)
         {

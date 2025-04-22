@@ -12,8 +12,20 @@ namespace MyGame
         private float x;
         private float y;
 
-        public float X => x;
-        public float Y => y;
+        public float X
+        {
+            get { return x; }
+            set { x = value; }
+        }
+        public float Y
+        {
+            get => y;
+            set { y = value; }
+        }
+
+        
+
+
 
         public Vector2(float x, float y)
         {
@@ -21,8 +33,5 @@ namespace MyGame
             this.y = y;
 
         }
-
-
-
     }
 }

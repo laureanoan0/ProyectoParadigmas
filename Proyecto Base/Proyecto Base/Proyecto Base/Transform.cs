@@ -6,29 +6,46 @@ using System.Threading.Tasks;
 
 namespace MyGame
 {
-    public class Transform
+
+    /*struct Vector2
     {
 
-        private int posX;
-        private int posY;
+       
 
-        public int PosX => posX;
-        public int PosY => posY;
+        public float X;
+        public float Y;
+
+        public Vector2(float x, float y)
+        {
+            this.X = x;
+            this.Y = y;
+
+        }
+
+    }*/
+
+    public class Transform
+    {
+        private Vector2 position;
+
+        public float PosX => position.X;
+        public float PosY => position.Y;
+
+       
 
      
-        public Transform(int posX, int posY)
+        public Transform(float posX, float posY)
         {
-        
-            this.posX = posX;
-            this.posY = posY;
+             
+            position = new Vector2(posX, posY);
 
         }
 
         public void translate(int valueX, int valueY)
         {
 
-            this.posX += valueX;
-            this.posY += valueY;
+            position.X += valueX;
+            position.Y += valueY;
 
         }
 

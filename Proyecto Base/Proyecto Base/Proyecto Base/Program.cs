@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Data;
 using System.Diagnostics;
 using System.Net.NetworkInformation;
+using System.Security.Cryptography.X509Certificates;
 using Tao.Sdl;
 
 
@@ -15,7 +17,7 @@ namespace MyGame
         public static DateTime startTime;
         private static float lastFrameTime;
 
-        private static Image pj = Engine.LoadImage("assets/player.png");
+        
         private static Image background = Engine.LoadImage("assets/fondo.png");
 
         private static Player player;
@@ -25,6 +27,8 @@ namespace MyGame
         static void Main(string[] args)
         {
             Engine.Initialize();
+
+            player = new Player(40, 500);
 
             startTime = DateTime.Now;
 
@@ -37,15 +41,30 @@ namespace MyGame
                 }//Time Manager
 
 
-              
+                update();
+                render();
 
 
 
-                Engine.Clear();               
-                Engine.Draw(background, 0, 0);
-                Engine.Draw(pj, 0, 0);
-                Engine.Show();
+                
             }
+
+           
+        }
+
+        public static void update()
+        {
+            player.update();
+
+        }
+
+        public static void render()
+        {
+            Engine.Clear();
+            Engine.Draw(background, 0, 0);
+            player.renderer();
+            Engine.Show();
+
         }
     }
 }
