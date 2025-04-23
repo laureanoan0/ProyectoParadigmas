@@ -93,3 +93,5 @@ C:\Users\alu765\Documents\GitHub\ProyectoParadigmas\Proyecto Base\Proyecto Base\
 C:\Users\alu765\Documents\GitHub\ProyectoParadigmas\Proyecto Base\Proyecto Base\Proyecto Base\obj\Debug\MyGame.csproj.Up2Date
 C:\Users\alu765\Documents\GitHub\ProyectoParadigmas\Proyecto Base\Proyecto Base\Proyecto Base\obj\Debug\MyGame.exe
 C:\Users\alu765\Documents\GitHub\ProyectoParadigmas\Proyecto Base\Proyecto Base\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\alu765\Documents\GitHub\ProyectoParadigmas\Proyecto Base\Proyecto Base\Proyecto Base\bin\Debug\assets\piso.png
+C:\Users\alu765\Documents\GitHub\ProyectoParadigmas\Proyecto Base\Proyecto Base\Proyecto Base\bin\Debug\assets\enemy.png
