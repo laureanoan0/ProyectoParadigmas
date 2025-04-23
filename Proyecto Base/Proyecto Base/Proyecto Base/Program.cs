@@ -55,6 +55,7 @@ namespace MyGame
         public static void update()
         {
             player.update();
+            
 
         }
 

@@ -15,6 +15,7 @@ namespace MyGame
 
         public Transform PlayerTransform => playerTransform;
 
+        private Animation currentAnimation;
 
 
        
@@ -25,6 +26,16 @@ namespace MyGame
             
            playerTransform = new Transform(posX, posY);
            playerController = new PlayerController(playerTransform);
+
+            List<Image> images= new List<Image>();
+
+            for (int i = 0; i < 15; i++)
+            {
+                Image imagen = Engine.LoadImage($"assets/runAnimation/{i}.png");
+                images.Add(imagen);
+            }
+
+            currentAnimation = new Animation("runAnimation", images , 0.1f, true);
             
         }
 
@@ -32,13 +43,14 @@ namespace MyGame
         {
        
             playerController.update();
+            currentAnimation.update();
 
         }
 
         public void renderer()
         {
 
-            Engine.Draw(playerSprite, PlayerTransform.PosX, PlayerTransform.PosY);
+            Engine.Draw(currentAnimation.CurrentImage, PlayerTransform.PosX, PlayerTransform.PosY);
 
         }
 

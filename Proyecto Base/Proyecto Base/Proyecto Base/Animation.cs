@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace MyGame
 {
-    public class Animator
+    public class Animation
     {
         private string name;
         private List<Image> images;
@@ -15,8 +15,8 @@ namespace MyGame
         private bool isLooping;
         private int currentFrame;
         private float currentTime;
-
-        public Animator(string name, List<Image> images, float speedAnimation, bool isLooping)
+        public Image CurrentImage=>images[currentFrame];
+        public Animation(string name, List<Image> images, float speedAnimation, bool isLooping)
         {
             this.name = name;   
             this.images = images;   
@@ -24,7 +24,7 @@ namespace MyGame
             this.isLooping = isLooping; 
         }
 
-        public void Update()
+        public void update()
         {
         currentTime += Program.deltaTime;
 
