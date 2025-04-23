@@ -41,11 +41,11 @@ namespace MyGame
 
         }
 
-        public void translate(int valueX, int valueY)
+        public void translate(int valueX, int valueY, float speed)
         {
 
-            position.X += valueX;
-            position.Y += valueY;
+            position.X += valueX*speed;
+            position.Y += valueY*speed;
 
         }
 

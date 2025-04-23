@@ -9,7 +9,8 @@ namespace MyGame
     public class PlayerController
     {
         private Transform playerTransform;
-        private int speed = 4;
+        private float speed = 4;
+        private float gravity = 2;
 
         public PlayerController(Transform playerTransform)
         {
@@ -20,18 +21,20 @@ namespace MyGame
         public void update()
         {
 
+            playerTransform.translate(0, 1, gravity);
+
             if (Engine.GetKey(Engine.KEY_A))
             {
-                playerTransform.translate(-1 * speed, 0);
+                playerTransform.translate(-1 , 0, speed);
 
             }
             if (Engine.GetKey(Engine.KEY_D))
             {
-                playerTransform.translate(1 * speed, 0);
+                playerTransform.translate(1 , 0, speed);
             }
             if (Engine.GetKey(Engine.KEY_ESP))
             {
-                playerTransform.translate(0, -1 * speed);
+                playerTransform.translate(0, -1, speed);
 
             }
 
